@@ -1,1 +1,22 @@
 /* Your stylesheet */
+body{
+    background-color: #aaa7a7; 
+}
+
+.navbar{
+    max-height: 50px; 
+	background-color: #ebf0ee; 
+    font-size: 10px; 
+}
+
+.navigation .navbar-brand{
+	color: white; 
+	margin-left: 50px; 
+	padding: inherit; 
+	font-weight: bold; 
+	background-color: #38ab87;
+}
+
+.dropdown-item{
+    color: #156469; 
+}
